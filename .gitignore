@@ -1,0 +1,50 @@
+## Python cache & build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+.cache/
+
+## Type checking / tests / coverage
+.mypy_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+## Virtual environments
+.venv/
+venv/
+env/
+
+## Notebooks
+.ipynb_checkpoints/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Logs
+logs/
+*.log
+
+## MLflow artifacts
+mlruns/
+
+## Training artifacts (generated)
+artifacts/
+
+## Environment files
+.env
+.env.*
+
+!Dockerfile
+!docker-compose*.yml
+!Makefile
+
+
