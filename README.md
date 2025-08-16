@@ -1,7 +1,7 @@
-# 🎧 Churn Prediction 
+# Churn Prediction 
 ---
 
-## 🎯 Objective
+## Objective
 Identify users most likely to churn (cancel subscription) based on their recent in-app behavior.
 
 ---
