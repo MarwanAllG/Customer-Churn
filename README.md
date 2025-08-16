@@ -1,7 +1,4 @@
 # 🎧 Churn Prediction 
-
-> Predict which users are likely to cancel their subscription from usage behavior.  
-
 ---
 
 ## 🎯 Objective
