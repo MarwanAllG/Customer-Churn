@@ -82,7 +82,7 @@ Identify users most likely to cancel their subscription so that retention action
 | **Logistic Regression**     | **70%**  | **0.704** | **0.460** | **0.519** |
 | RandomForest Classifier     | 25%      | 0.571  | 0.390  | 0.377   |
 | GradientBoosting Classifier | 77%      | 0.614  | 0.357  | 0.414   |
-| HistGradientBoosting        | 42%      | 0.
+| HistGradientBoosting        | 42%      | 0.632  | 0.421  | 0.457
 
 ---
 
